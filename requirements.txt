@@ -1,0 +1,8 @@
+cohere
+groq
+python-dotenv
+rich
+opencv-python
+googlesearch-python
+requests
+pillow
